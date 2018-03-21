@@ -1,4 +1,4 @@
-# Robust-Rigid-Point-Registration
+# DUGMA
 
 After our paper "DUGMA: Dynamic Uncertainty-Based Gaussian
 Mixture Alignment" is accepted, we will release its code here only for the research purpose.
