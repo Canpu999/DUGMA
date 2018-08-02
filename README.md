@@ -1,9 +1,8 @@
 # DUGMA
 
-After our paper "DUGMA: Dynamic Uncertainty-Based Gaussian
-Mixture Alignment" is accepted, we will release its code here only for the research purpose.
+Our paper "DUGMA: Dynamic Uncertainty-Based Gaussian
+Mixture Alignment" has been accepted by 3DV 2018, we will release its code, datasets we used and supplementary materials in the paper here only for the research purpose.
 
-We have submitted our paper with our code to ECCV 2018.
 
 Thanks a lot.
 Can Pu
