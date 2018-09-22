@@ -1,0 +1,6 @@
+
+Kinect Application: 30 real scences caught from two Kinect V2. In each file, there are one moving point cloud Y and its corresponding covariance Y_C, one fixed point cloud X its corresponding covariance X_C, Ground Truth R_G, t_G.   The covariance of point X(:,k) is X_C(:, 3*(k-1)+1:3k). 
+The covariance of point Y(:,k) is Y_C(:, 3*(k-1)+1:3k).
+
+If you have any question, please contact:
+can.pu@ed.ac.uk  Or canpu999@gmail.com

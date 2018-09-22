@@ -1,0 +1,11 @@
+2D Fish MODEL:   The model used to generate point cloud X, Y in simulation.
+
+2D SHAPE MODEL:  The model used to generate point cloud X, Y in simulation to test robustness of shapes.
+
+3D SHAPE MODEL from Trimbot2020: We are not allowed to release the dataset in this part by our partners. This part will be released at the end of project Trimbot2020.
+
+Kinect Application: 30 real scences caught from two Kinect V2. In each file, there are one moving point cloud Y and its corresponding covariance Y_C, one fixed point cloud X its corresponding covariance X_C, Ground Truth R_G, t_G.   The covariance of point X(:,k) is X_C(:, 3*(k-1)+1:3k). 
+The covariance of point Y(:,k) is Y_C(:, 3*(k-1)+1:3k).
+
+If you have any question, please contact:
+can.pu@ed.ac.uk  Or canpu999@gmail.com
