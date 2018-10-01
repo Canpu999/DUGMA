@@ -1,4 +1,22 @@
-function [R,t]=DUGMA(X,Y,X_C,Y_C,R0,t0,Max_Iteration, accuracy_rotation, accuracy_translation,accuracy_sig)
+%%%%%%%%%%%%%%%%%%%%%%%%%% Interface function of DUGMA %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%input parameters%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% X is the fixed point cloud
+% X_C is the covariance of X
+% Y is the moving point cloud
+% Y_C is the covariance of Y
+% R0 is the intial rotation matrix
+% t0 is the initial translation matrix
+% Max_Iteration is the maximum iteration
+% accuracy_rotation is the accuracy threshold for the rotation matrix
+% accuracy_translation is the accuracy threshold for the translation matrix
+% accuracy_sig is the accuracy threshold for the minimum distance
+
+%%%%%%%%%%%%output parameters%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# R is the estimated rotation matrix by DUGMA
+# t is the estimated translation matrix by DUGMA
+ 
+function [R,t]=DUGMA(X,Y,X_C,Y_C,R0,t0,Max_Iteration, accuracy_rotation, accuracy_translation,accuracy_sig)   
       % A is the coefficient for the energy function
       global A
       warning('off','all')

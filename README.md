@@ -45,6 +45,10 @@ Please install cuda driver and cuda toolkit and matlab. The environment for our 
 2 run file 'main_simulation.m'   or   run file 'main_kinect_real_application.m'
 
 
+### Use your own data
+If you want to use your own data, please use the function "DUGMA.m"
+
+
 
 
 
