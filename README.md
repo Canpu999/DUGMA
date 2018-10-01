@@ -46,7 +46,7 @@ Please install cuda driver and cuda toolkit and matlab. The environment for our 
 
 
 ### Use your own data
-If you want to use your own data, please use the function "DUGMA.m"
+If you want to use your own data, please use the function "DUGMA.m". The current version of DUGMA is a little slow. Thus, we suggest to use the point clouds with 6K points or less to test this algorithm. 
 
 
 
