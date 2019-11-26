@@ -4,12 +4,15 @@ This repository contains the code for "[DUGMA: Dynamic Uncertainty-Based Gaussia
 
 ### Citation
 ```
-@article{pu2018dugma,
+@inproceedings{pu2018dugma,
   title={DUGMA: Dynamic Uncertainty-Based Gaussian Mixture Alignment},
-  author={Pu, Can and Li, Nanbo and Tylecek, Radim and Fisher, Robert B},
-  journal={arXiv preprint arXiv:1803.07426},
-  year={2018}
+  author={Pu, Can and Li, Nanbo and Tylecek, Radim and Fisher, Bob},
+  booktitle={2018 International Conference on 3D Vision (3DV)},
+  pages={766--774},
+  year={2018},
+  organization={IEEE}
 }
+
 ```
 
 ## Contents
