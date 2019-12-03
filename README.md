@@ -1,6 +1,6 @@
 # DUGMA: Dynamic Uncertainty-Based Gaussian Mixture Alignment
 
-This repository contains the code for "[DUGMA: Dynamic Uncertainty-Based Gaussian Mixture Alignment](https://arxiv.org/abs/1803.07426)" paper (3DV 2018) by [Can Pu](https://github.com/Canpu999), Nanbo Li, Radim Tylecek, Robert B Fisher. For [the speed-up version](https://gitlab.com/nicstrisc/fast-dugma), thank Nicola Strisciuglio for his implementation. 
+This repository contains the code for "[DUGMA: Dynamic Uncertainty-Based Gaussian Mixture Alignment](https://arxiv.org/abs/1803.07426)" paper (3DV 2018) by [Can Pu](https://github.com/Canpu999), Nanbo Li, Radim Tylecek, Robert B Fisher. For the speed-up version, thank Nicola Strisciuglio for his [implementation](https://gitlab.com/nicstrisc/fast-dugma). 
 
 ### Citation
 ```
