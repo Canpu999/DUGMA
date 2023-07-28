@@ -56,6 +56,6 @@ If you want to use your own data, please use the function "DUGMA.m". The current
 
 
 ## Contacts
-can.pu@ed.ac.uk
+can.pu@amigaga.com
 
 Any discussions or concerns are welcomed!
